@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringTest.iml" filepath="$PROJECT_DIR$/SpringTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/create-excel/create-excel.iml" filepath="$PROJECT_DIR$/create-excel/create-excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-access/data-access.iml" filepath="$PROJECT_DIR$/data-access/data-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/get_token_test/get_token_test.iml" filepath="$PROJECT_DIR$/get_token_test/get_token_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-util/jpa-util.iml" filepath="$PROJECT_DIR$/jpa-util/jpa-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_security/my_security.iml" filepath="$PROJECT_DIR$/my_security/my_security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myredis/myredis.iml" filepath="$PROJECT_DIR$/myredis/myredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-authorization-demo/spring-authorization-demo.iml" filepath="$PROJECT_DIR$/spring-authorization-demo/spring-authorization-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-demo/spring-demo.iml" filepath="$PROJECT_DIR$/spring-demo/spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_boot_utils/spring_boot_utils.iml" filepath="$PROJECT_DIR$/spring_boot_utils/spring_boot_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_oss/test_oss.iml" filepath="$PROJECT_DIR$/test_oss/test_oss.iml" />
+    </modules>
+  </component>
+</project>
